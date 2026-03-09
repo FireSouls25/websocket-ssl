@@ -1,0 +1,15 @@
+{
+  "name": "websocket-ssl",
+  "version": "1.0.0",
+  "description": "WebSocket server with SSL/TLS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["websocket", "ssl", "tls"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}
